@@ -18,7 +18,7 @@ export function Step() {
     setcount((s) => s + step);
   }
 
-  const date = new Date("Wed Aug 21 2024 20:02:11 GMT+0400");
+  const date = new Date("Tue Jul 6 1999 01:00:00 GMT+0400");
   date.setDate(date.getDate() + count);
 
   return (
