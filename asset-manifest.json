@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Data_Counter/static/css/main.d7ac61e8.css",
+    "main.js": "/Data_Counter/static/js/main.ae4c904b.js",
+    "index.html": "/Data_Counter/index.html",
+    "main.d7ac61e8.css.map": "/Data_Counter/static/css/main.d7ac61e8.css.map",
+    "main.ae4c904b.js.map": "/Data_Counter/static/js/main.ae4c904b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7ac61e8.css",
+    "static/js/main.ae4c904b.js"
+  ]
+}
