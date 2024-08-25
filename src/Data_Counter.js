@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-export function Step() {
+export function DataCounter() {
   const [step, setStep] = useState(0);
   const [count, setcount] = useState(0);
 
